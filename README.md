@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster*
+![web102_prework](https://github.com/user-attachments/assets/b69486a3-7981-405d-8529-070c88066e8b)# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Samiul Saimon**
 
@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![web102_prework](https://github.com/user-attachments/assets/52914e3c-143c-4670-83c1-d09d18da262c)
+' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
