@@ -1,10 +1,10 @@
-![web102_prework](https://github.com/user-attachments/assets/b69486a3-7981-405d-8529-070c88066e8b)# WEB102 Prework - *Sea Monster*
+# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Samiul Saimon**
 
 **Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='![web102_prework](https://github.com/user-attachments/assets/52914e3c-143c-4670-83c1-d09d18da262c)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/465c08cd9a7e46f68325f41e44c15b0d?sid=2a887f03-6584-44ce-86da-bd8892651696' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap  
+GIF created with Loom 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,8 +34,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-It's very easy to get syntax mixed up with other languages and sometimes I would know what to do conceptually but executing it would be the real challenge since its much more specific of a task. 
+It's very easy to get syntax mixed up with other languages and sometimes I would know what to do conceptually but executing it would be the real challenge since its much more specific of a task. While recording, I noticed the dynamic search bar stops working temporarily. 
 
 ## License
 
