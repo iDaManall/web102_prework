@@ -189,3 +189,28 @@ firstGameContainer.append(firstGameElement);
 const secondGameElement = document.createElement("p");
 secondGameElement.innerHTML = secondGame.name;
 secondGameContainer.append(secondGameElement);
+
+// Dynamic Search Bar
+
+//get search bar element by its ID
+const searchBar = document.getElementById("searchBar");
+//get all game card elements by using .game-card
+const gameCards = document.querySelectorAll(".game-card")
+
+// add event listener that listens for input events, triggers whenever user types
+searchBar.addEventListener("input", () => {
+    // get current value of search bar, making it case insensitive
+    const query = searchBar.value.toLowerCase();
+
+    // loop through each game card
+    gameCards.forEach(card => {
+        // find h2 element in each card which is the name, convert to lowercase
+        const gameName = card.querySelector("h2").textContent.toLowerCase();
+        // check if game name includes current value of search bar
+        if (gameName.includes(query)) {
+          card.style.display = "block"; // if it does, display
+        } else {
+          card.style.display = "none"; // if not, hide
+        }
+    });
+});

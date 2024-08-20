@@ -3,6 +3,7 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    text-align: center;
 }
 
 #tentacles {
@@ -22,8 +23,6 @@ body {
 .stats-container {
     display: flex;
     align-items: center;
-    
-    
 }
 
 .stats-container:hover {
@@ -80,4 +79,23 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#searchBar {
+    width: 100%;  /* make the search bar take up full width of its container */
+    max-width: 400px;  /* limit the width to a maximum of 400px */
+    padding: 10px;  /* add padding inside the input field for better spacing */
+    margin: 20px auto;  /* center search bar and add space around it */
+    display: block;  /* make sure the input field is displayed as a block element */
+    border-radius: 25px;  /* round the corners of the input field */
+    border: 2px solid #ccc;  /* light border around the input field */
+    font-size: 16px;  /* increase font size for better readability */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);  /* subtle shadow for a 3D effect */
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;  /* smooth transition for hover effects */
+}
+
+#searchBar:focus {
+    border-color: #007BFF;  /* change border color when the input field is focused */
+    box-shadow: 0px 4px 8px rgba(0, 123, 255, 0.2);  /* enhance shadow effect when focused */
+    outline: none;  /* remove the default focus outline */
 }
